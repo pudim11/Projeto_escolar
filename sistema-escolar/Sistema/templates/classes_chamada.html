@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chamada/Frequência</title>
+</head>
+<body>
+    <div>
+        <h1>Chamada/Frequência</h1>
+        <form action="/classes/chamada" method="POST">
+            <select name="turma" id="turma">
+                <!-- Aqui você pode iterar sobre as turmas e criar as opções -->
+                {% for classe in turmas %}
+                <option value="{{ classe.id }}">{{ classe.nome }}</option>
+                {% endfor %}
+            </select>
+            <button type="submit">Enviar</button>
+        </form>
+    </div>
+</body>
+</html>

@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lançamento de Notas</title>
+</head>
+<body>
+
+{% if not notas %}
+<!-- Primeiro formulário para busca -->
+<form action="/classes_lancamento" method="POST">
+    <label for="matricula">Matrícula do Aluno:</label>
+    <input type="text" id="matricula" name="matricula" required>
+    <br>
+    <label for="materia_id">Matéria:</label>
+    <select id="materia_id" name="materia_id">
+        {% for materia in materias %}
+        <option value="{{ materia.id }}">{{ materia.nome }}</option>
+        {% endfor %}
+    </select>
+    <br>
+    <button type="submit">Buscar Notas</button>
+</form>
+{% else %}
+<!-- Exibição dos dados do aluno e formulário para alterar as notas -->
+<p><strong>Nome do Aluno:</strong> {{ student_name }}</p>
+<p><strong>Matrícula:</strong> {{ matricula }}</p>
+
+<form action="/classes_lancamento" method="POST">
+    <input type="hidden" name="matricula" value="{{ matricula }}">
+    <input type="hidden" name="materia_id" value="{{ materia_id }}">
+    <label for="nota1">Nota 1:</label>
+    <input type="text" id="nota1" name="nota1" value="{{ notas.nota1 }}" required>
+    <br>
+    <label for="nota2">Nota 2:</label>
+    <input type="text" id="nota2" name="nota2" value="{{ notas.nota2 }}" required>
+    <br>
+    <label for="nota3">Nota 3:</label>
+    <input type="text" id="nota3" name="nota3" value="{{ notas.nota3 }}" required>
+    <br>
+    <label for="nota4">Nota 4:</label>
+    <input type="text" id="nota4" name="nota4" value="{{ notas.nota4 }}" required>
+    <br>
+    <button type="submit">Salvar Notas</button>
+</form>
+{% endif %}
+
+</body>
+</html>

@@ -1,0 +1,342 @@
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 595-416-005
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 11:08:24] "GET /portal_professor HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 11:08:28] "POST /home_professor HTTP/1.1" 200 -
+ERROR:root:Erro: campo 400 Bad Request: The browser (or proxy) sent a request that this server could not understand. ausente no formulário
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 11:08:29] "[32mPOST /classes_lancamento HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 11:08:29] "GET /classes_lancamento HTTP/1.1" 200 -
+ERROR:root:Notas não encontradas para o estudante moises na matéria 1
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 11:08:31] "[32mPOST /classes_lancamento HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 11:08:31] "GET /classes_lancamento HTTP/1.1" 200 -
+ERROR:root:Notas não encontradas para o estudante moises na matéria 1
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 11:08:39] "[32mPOST /classes_lancamento HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 11:08:39] "GET /classes_lancamento HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 11:09:16] "POST /home_professor HTTP/1.1" 200 -
+ERROR:root:Erro: campo 400 Bad Request: The browser (or proxy) sent a request that this server could not understand. ausente no formulário
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 11:09:17] "[32mPOST /classes_lancamento HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 11:09:17] "GET /classes_lancamento HTTP/1.1" 200 -
+ERROR:root:Notas não encontradas para o estudante moises na matéria 1
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 11:09:19] "[32mPOST /classes_lancamento HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 11:09:19] "GET /classes_lancamento HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 11:09:40] "POST /home_professor HTTP/1.1" 200 -
+ERROR:root:Erro: campo 400 Bad Request: The browser (or proxy) sent a request that this server could not understand. ausente no formulário
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 11:09:41] "[32mPOST /classes_lancamento HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 11:09:41] "GET /classes_lancamento HTTP/1.1" 200 -
+ERROR:root:Notas não encontradas para o estudante moises na matéria 1
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 11:09:43] "[32mPOST /classes_lancamento HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 11:09:43] "GET /classes_lancamento HTTP/1.1" 200 -
+ERROR:root:Notas não encontradas para o estudante lucas na matéria 1
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 11:09:47] "[32mPOST /classes_lancamento HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 11:09:47] "GET /classes_lancamento HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 595-416-005
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 11:11:30] "POST /home_professor HTTP/1.1" 200 -
+ERROR:root:Erro: campo 400 Bad Request: The browser (or proxy) sent a request that this server could not understand. ausente no formulário
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 11:11:31] "[32mPOST /classes_lancamento HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 11:11:31] "GET /classes_lancamento HTTP/1.1" 200 -
+ERROR:root:Notas não encontradas para o estudante moises na matéria 1
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 11:11:33] "[32mPOST /classes_lancamento HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 11:11:33] "GET /classes_lancamento HTTP/1.1" 200 -
+ERROR:root:Notas não encontradas para o estudante lucas na matéria 2
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 11:11:50] "[32mPOST /classes_lancamento HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 11:11:50] "GET /classes_lancamento HTTP/1.1" 200 -
+ERROR:root:Notas não encontradas para o estudante lucas na matéria 1
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 11:11:53] "[32mPOST /classes_lancamento HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 11:11:53] "GET /classes_lancamento HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 595-416-005
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 11:21:46] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 11:21:47] "GET /portal_aluno HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 11:21:48] "GET /portal_professor HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 11:21:50] "POST /home_professor HTTP/1.1" 200 -
+ERROR:root:Erro: campo 400 Bad Request: The browser (or proxy) sent a request that this server could not understand. ausente no formulário
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 11:21:51] "[32mPOST /classes_lancamento HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 11:21:51] "GET /classes_lancamento HTTP/1.1" 200 -
+ERROR:root:Notas não encontradas para o estudante moises na matéria 1
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 11:21:53] "[32mPOST /classes_lancamento HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 11:21:53] "GET /classes_lancamento HTTP/1.1" 200 -
+ERROR:root:Notas não encontradas para o estudante moises na matéria 1
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 11:21:56] "[32mPOST /classes_lancamento HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 11:21:56] "GET /classes_lancamento HTTP/1.1" 200 -
+ERROR:root:Notas não encontradas para o estudante lucas na matéria 2
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 11:22:03] "[32mPOST /classes_lancamento HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 11:22:03] "GET /classes_lancamento HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 595-416-005
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 13:58:32] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 13:58:37] "GET /portal_aluno HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 13:58:42] "[32mPOST /home_aluno HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 13:58:42] "GET /boletim HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 13:58:46] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 13:58:47] "GET /portal_professor HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 13:58:49] "POST /home_professor HTTP/1.1" 200 -
+ERROR:root:Erro: campo 400 Bad Request: The browser (or proxy) sent a request that this server could not understand. ausente no formulário
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 13:58:51] "[32mPOST /classes_lancamento HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 13:58:51] "GET /classes_lancamento HTTP/1.1" 200 -
+ERROR:root:Notas não encontradas para o estudante moises na matéria 1
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 13:58:55] "[32mPOST /classes_lancamento HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 13:58:55] "GET /classes_lancamento HTTP/1.1" 200 -
+ERROR:root:Notas não encontradas para o estudante moises na matéria 1
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 13:59:01] "[32mPOST /classes_lancamento HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 13:59:01] "GET /classes_lancamento HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 13:59:09] "[32mGET /portal_admin HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 13:59:09] "GET /login_admin HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 595-416-005
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 14:02:45] "[32mGET /portal_admin HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 14:02:45] "GET /login_admin HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 14:02:49] "[32mPOST /login_admin HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 14:02:49] "GET /portal_admin HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 14:03:02] "GET /portal_admin HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 14:03:04] "GET /adicionar_aluno HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 14:03:21] "[32mPOST /adicionar_aluno HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 14:03:21] "GET /adicionar_aluno HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 14:03:22] "GET /adicionar_aluno HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 14:03:24] "GET /portal_aluno HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 14:03:29] "[32mPOST /home_aluno HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 14:03:29] "GET /boletim HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 14:03:38] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 14:03:59] "GET /portal_professor HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 14:04:04] "POST /home_professor HTTP/1.1" 200 -
+ERROR:root:Erro: campo 400 Bad Request: The browser (or proxy) sent a request that this server could not understand. ausente no formulário
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 14:04:05] "[32mPOST /classes_lancamento HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 14:04:05] "GET /classes_lancamento HTTP/1.1" 200 -
+ERROR:root:Notas não encontradas para o estudante moises na matéria 2
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 14:04:08] "[32mPOST /classes_lancamento HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 14:04:08] "GET /classes_lancamento HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 595-416-005
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 595-416-005
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 595-416-005
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 15:26:38] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 15:26:39] "[32mGET /portal_admin HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 15:26:39] "GET /login_admin HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 15:26:41] "GET /portal_professor HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 15:26:44] "POST /home_professor HTTP/1.1" 200 -
+ERROR:root:Erro: campo 400 Bad Request: The browser (or proxy) sent a request that this server could not understand. ausente no formulário
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 15:26:45] "[32mPOST /classes_lancamento HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 15:26:45] "GET /classes_lancamento HTTP/1.1" 200 -
+ERROR:root:Notas não encontradas para o estudante moises na matéria 1
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 15:26:49] "[32mPOST /classes_lancamento HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 15:26:49] "GET /classes_lancamento HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 15:26:52] "[32mGET /portal_admin HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 15:26:52] "GET /login_admin HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\mfpud\\OneDrive\\Área de Trabalho\\sistema-escolar-pythonnn\\Sistema\\routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 595-416-005
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 15:35:58] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 15:35:58] "GET /portal_professor HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 15:36:00] "POST /home_professor HTTP/1.1" 200 -
+ERROR:root:Ocorreu um erro ao buscar notas: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 15:36:01] "[32mPOST /classes_lancamento HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 15:36:01] "[35m[1mGET /classes_lancamento HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 15:36:02] "[36mGET /classes_lancamento?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 15:36:02] "[36mGET /classes_lancamento?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 15:36:02] "[36mGET /classes_lancamento?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 15:36:02] "[36mGET /classes_lancamento?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 15:37:29] "GET /portal_professor HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 15:37:32] "POST /home_professor HTTP/1.1" 200 -
+ERROR:root:Ocorreu um erro ao buscar notas: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 15:37:33] "[32mPOST /classes_lancamento HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 15:37:33] "GET /classes_lancamento HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 15:37:33] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 15:38:15] "POST /classes_lancamento HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 15:38:15] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 15:38:28] "[32mPOST /classes_lancamento HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 15:38:28] "GET /classes_lancamento HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 15:38:28] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 15:38:54] "POST /classes_lancamento HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 15:38:54] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 15:38:59] "[32mPOST /classes_lancamento HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 15:38:59] "GET /classes_lancamento HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 15:38:59] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 15:39:43] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 15:39:44] "GET /classes_lancamento HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 15:39:44] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 15:39:46] "POST /home_professor HTTP/1.1" 200 -
+ERROR:root:Ocorreu um erro ao buscar notas: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 15:39:47] "[32mPOST /classes_lancamento HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 15:39:47] "GET /classes_lancamento HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 15:39:47] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 595-416-005
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 15:57:12] "GET /classes_lancamento HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 15:57:12] "GET /classes_lancamento HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 15:57:13] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 15:57:13] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 15:57:17] "POST /classes_lancamento HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 15:57:17] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 15:57:21] "[32mPOST /classes_lancamento HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 15:57:21] "GET /classes_lancamento HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 15:57:21] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 15:57:36] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 15:57:37] "GET /classes_lancamento HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 15:57:40] "[32mGET /portal_admin HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 15:57:40] "GET /login_admin HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 15:57:45] "[32mPOST /login_admin HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 15:57:45] "GET /portal_admin HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 15:57:52] "[32mGET /logout_admin HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 15:57:52] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 15:57:54] "GET /portal_aluno HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 15:57:57] "[32mPOST /home_aluno HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 15:57:57] "GET /boletim HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 15:58:30] "GET /portal_professor HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 15:58:33] "POST /home_professor HTTP/1.1" 200 -
+ERROR:root:Ocorreu um erro ao buscar notas: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 15:58:35] "[32mPOST /classes_lancamento HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 15:58:35] "GET /classes_lancamento HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 15:58:35] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 15:58:59] "POST /classes_lancamento HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 15:58:59] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 15:59:03] "[32mPOST /classes_lancamento HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 15:59:03] "GET /classes_lancamento HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 15:59:03] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 15:59:05] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 15:59:05] "GET /classes_lancamento HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 15:59:05] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 15:59:08] "GET /portal_professor HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 15:59:09] "[32mGET /portal_admin HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 15:59:09] "GET /login_admin HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 15:59:13] "[32mPOST /login_admin HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 15:59:13] "GET /portal_admin HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 15:59:16] "GET /adicionar_aluno HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 15:59:17] "GET /login_admin HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 15:59:19] "GET /portal_aluno HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 15:59:23] "[32mPOST /home_aluno HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 15:59:23] "GET /boletim HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 15:59:27] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 15:59:28] "GET /portal_professor HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 15:59:32] "POST /home_professor HTTP/1.1" 200 -
+ERROR:root:Ocorreu um erro ao buscar notas: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 15:59:34] "[32mPOST /classes_lancamento HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 15:59:34] "GET /classes_lancamento HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 15:59:34] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 16:00:34] "GET /classes_lancamento HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 16:00:35] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 16:00:39] "POST /classes_lancamento HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 16:00:39] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 16:00:43] "[32mPOST /classes_lancamento HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 16:00:43] "GET /classes_lancamento HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 16:00:43] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 595-416-005
+INFO:werkzeug:127.0.0.1 - - [11/Jun/2024 14:41:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Jun/2024 14:41:06] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [11/Jun/2024 14:41:08] "GET /portal_aluno HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Jun/2024 14:41:11] "[35m[1mPOST /home_aluno HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [11/Jun/2024 14:41:11] "GET /home_aluno?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Jun/2024 14:41:11] "GET /home_aluno?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Jun/2024 14:41:11] "GET /home_aluno?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\mfpud\\OneDrive\\Área de Trabalho\\sistema-escolar-pythonnn\\Sistema\\routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 595-416-005
+INFO:werkzeug:127.0.0.1 - - [11/Jun/2024 14:43:13] "[32mPOST /home_aluno HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [11/Jun/2024 14:43:13] "GET /boletim HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Jun/2024 14:43:19] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Jun/2024 14:43:20] "GET /portal_professor HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Jun/2024 14:43:23] "POST /home_professor HTTP/1.1" 200 -
+ERROR:root:Ocorreu um erro ao buscar notas: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+INFO:werkzeug:127.0.0.1 - - [11/Jun/2024 14:43:23] "[32mPOST /classes_lancamento HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [11/Jun/2024 14:43:23] "GET /classes_lancamento HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Jun/2024 14:43:24] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [11/Jun/2024 14:43:31] "POST /classes_lancamento HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Jun/2024 14:43:31] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [11/Jun/2024 14:43:35] "[32mPOST /classes_lancamento HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [11/Jun/2024 14:43:35] "GET /classes_lancamento HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Jun/2024 14:43:35] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\mfpud\\OneDrive\\Área de Trabalho\\sistema-escolar-pythonnn\\Sistema\\routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 595-416-005
+INFO:werkzeug:127.0.0.1 - - [11/Jun/2024 14:46:44] "GET /classes_lancamento HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Jun/2024 14:46:46] "GET /portal_professor HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Jun/2024 14:46:48] "POST /home_professor HTTP/1.1" 200 -
+ERROR:root:Ocorreu um erro ao buscar notas: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+INFO:werkzeug:127.0.0.1 - - [11/Jun/2024 14:46:49] "[32mPOST /classes_lancamento HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [11/Jun/2024 14:46:49] "GET /classes_lancamento HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Jun/2024 14:46:52] "POST /classes_lancamento HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Jun/2024 14:46:58] "[32mPOST /classes_lancamento HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [11/Jun/2024 14:46:59] "GET /classes_lancamento HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Jun/2024 14:47:22] "POST /classes_lancamento HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Jun/2024 14:47:27] "[32mPOST /classes_lancamento HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [11/Jun/2024 14:47:27] "GET /classes_lancamento HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Jun/2024 14:47:37] "GET /portal_aluno HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Jun/2024 14:47:39] "[32mPOST /home_aluno HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [11/Jun/2024 14:47:39] "GET /boletim HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Jun/2024 14:47:42] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Jun/2024 14:47:43] "GET /portal_professor HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Jun/2024 14:47:50] "GET /portal_professor HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Jun/2024 14:47:53] "POST /home_professor HTTP/1.1" 200 -
+ERROR:root:Ocorreu um erro ao buscar notas: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+INFO:werkzeug:127.0.0.1 - - [11/Jun/2024 14:47:53] "[32mPOST /classes_lancamento HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [11/Jun/2024 14:47:53] "GET /classes_lancamento HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Jun/2024 14:47:59] "POST /classes_lancamento HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Jun/2024 14:48:04] "[32mPOST /classes_lancamento HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [11/Jun/2024 14:48:04] "GET /classes_lancamento HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Jun/2024 14:48:23] "GET /portal_aluno HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Jun/2024 14:48:28] "[32mPOST /home_aluno HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [11/Jun/2024 14:48:28] "GET /boletim HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 595-416-005
+INFO:werkzeug:127.0.0.1 - - [11/Jun/2024 14:57:47] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Jun/2024 14:57:49] "GET /portal_professor HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Jun/2024 14:57:51] "POST /home_professor HTTP/1.1" 200 -
+ERROR:root:Ocorreu um erro ao buscar notas: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+INFO:werkzeug:127.0.0.1 - - [11/Jun/2024 14:57:52] "[32mPOST /classes_lancamento HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [11/Jun/2024 14:57:52] "GET /classes_lancamento HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Jun/2024 14:57:55] "POST /classes_lancamento HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Jun/2024 14:57:58] "[32mPOST /classes_lancamento HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [11/Jun/2024 14:57:58] "GET /classes_lancamento HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Jun/2024 14:58:05] "POST /classes_lancamento HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Jun/2024 14:58:12] "[32mPOST /classes_lancamento HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [11/Jun/2024 14:58:12] "GET /classes_lancamento HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Jun/2024 14:58:15] "GET /portal_aluno HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Jun/2024 14:58:17] "[32mPOST /home_aluno HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [11/Jun/2024 14:58:17] "GET /boletim HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Jun/2024 14:58:20] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Jun/2024 14:58:22] "GET /portal_professor HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Jun/2024 14:58:24] "POST /home_professor HTTP/1.1" 200 -

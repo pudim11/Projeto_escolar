@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lançar Nota</title>
+</head>
+<body>
+    <h1>Lançamento de Nota para a Turma {{ turma }}</h1>
+    <form action="/submit_nota" method="post">
+        <table>
+            <thead>
+                <tr>
+                    <th>Nome</th>
+                    <th>Nota</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for student in table_students %}
+                    {% if student['turma'] == turma %}
+                        <tr>
+                            <td>{{ student['nome'] }}</td>
+                            <td><input type="text" pattern="[0-9]+([.,][0-9]+)?" name="nota_{{ student['id'] }}" required></td>
+                        </tr>
+                    {% endif %}
+                {% endfor %}
+            </tbody>
+        </table>
+        <button type="submit">Salvar Notas</button>
+    </form>
+</body>
+</html>

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registrar Presença</title>
+</head>
+<body>
+    <h1>Registrar Presença</h1>
+    <form action="{{ url_for('registrar_presenca') }}" method="post">
+        <label for="turma">Selecione a turma:</label>
+        <select name="turma" id="turma">
+            {% for classe in turmas %}
+            <option value="{{ classe[0] }}">{{ classe[1] }}</option>
+            {% endfor %}
+        </select>
+        <button type="submit">Selecionar</button>
+    </form>
+    {% if table_students %}
+    <h2>Lista de Alunos</h2>
+    <form action="{{ url_for('registrar_presenca') }}" method="post">
+        <input type="hidden" name="turma_id" value="{{ turma_id }}">
+        <table>
+            <thead>
+                <tr>
+                    <th>Nome</th>
+                    <th>Presença</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for aluno in table_students %}
+                <tr>
+                    <td>{{ aluno['nome'] }}</td>
+                    <td>
+                        <input type="radio" name="status_{{ aluno['id'] }}" value="presente"> Presente
+                        <input type="radio" name="status_{{ aluno['id'] }}" value="falta"> Falta
+                    </td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+        <button type="submit">Registrar</button>
+    </form>
+    {% endif %}
+</body>
+</html>
